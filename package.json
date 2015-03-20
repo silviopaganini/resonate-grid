@@ -1,0 +1,29 @@
+{
+  "name": "resonate-grid",
+  "version": "1.0.5",
+  "description": "Resonate 2015 animating lines",
+  "main": "lib/res-grid.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/silviopaganini/resonate-grid.git"
+  },
+  "keywords": [
+    "grid",
+    "pixi",
+    "shapes",
+    "resonate"
+  ],
+  "author": "silvio paganini | fluuu.id | @silviopaganini",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^9.0.3",
+    "coffee-script": "^1.9.1",
+    "gsap": "^1.16.1",
+    "pixi": "^0.2.1",
+    "raf": "^2.0.4",
+    "uglify-js": "^2.4.17"
+  }
+}
