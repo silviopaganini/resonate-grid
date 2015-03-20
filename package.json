@@ -1,6 +1,6 @@
 {
   "name": "resonate-grid",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Resonate 2015 animating lines",
   "main": "lib/res-grid.js",
   "scripts": {
