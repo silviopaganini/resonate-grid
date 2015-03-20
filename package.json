@@ -1,6 +1,6 @@
 {
   "name": "resonate-grid",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Resonate 2015 animating lines",
   "main": "lib/res-grid.js",
   "scripts": {
@@ -16,6 +16,9 @@
     "shapes",
     "resonate"
   ],
+  "bugs": {
+    "url": "https://github.com/silviopaganini/resonate-grid/issues"
+  },
   "author": "silvio paganini | fluuu.id | @silviopaganini",
   "license": "ISC",
   "dependencies": {
