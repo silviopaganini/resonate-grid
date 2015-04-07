@@ -1,5 +1,7 @@
 # Resonate.io Grid 
 
+[![NPM](https://nodei.co/npm/resonate-grid.png)](https://nodei.co/npm/resonate-grid/)
+
 ### Install
 
 `npm install resonate-grid`
