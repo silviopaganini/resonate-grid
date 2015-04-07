@@ -1,6 +1,8 @@
 # Resonate.io Grid 
 
-[![NPM](https://nodei.co/npm/resonate-grid.png)](https://nodei.co/npm/resonate-grid/)
+[![Build Status](https://travis-ci.org/silviopaganini/resonate-grid.svg?branch=master)](https://travis-ci.org/silviopaganini/resonate-grid)
+
+[![NPM](https://nodei.co/npm/resonate-grid.png)](https://nodei.co/npm/resonate-grid/) 
 
 ### Install
 
@@ -26,7 +28,6 @@ document.body.appendChild(resGrid.view);
 function onKeyUp(e)
 {
     e.preventDefault();
-    console.log(e.keyCode);
     switch(e.keyCode)
     {
         case 71: resGrid.toggleGrid();
